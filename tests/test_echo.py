@@ -7,6 +7,8 @@ Students are expected to edit this module, to add more tests to run
 against the 'echo.py' program.
 """
 
+__author__ = "PokeyJess, with help from Daniel's walk-through"
+# especially that test_help! Phew!
 
 import sys
 import importlib
